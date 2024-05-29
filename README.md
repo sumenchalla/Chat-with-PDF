@@ -7,3 +7,7 @@ Interactive Chat: Engage in a conversation with your PDF documents.
 Information Extraction: Easily extract key information from your PDFs.  
 Summarization: Get concise summaries of lengthy PDF documents.  
 Question Answering: Ask questions and get accurate answers based on the content of your PDFs.  
+
+Developed by SUMEN
+
+Star this repository ⭐ to stay updated on future enhancements!
